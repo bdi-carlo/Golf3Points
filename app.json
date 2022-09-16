@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "golf-3-points",
+    "name": "Golf 3 Points",
     "slug": "golf-3-points",
+    "owner": "bdi-carlo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
